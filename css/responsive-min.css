@@ -1,0 +1,122 @@
+.banner-training{margin-top:30px}
+.banner-fellow{margin-top:30px;}
+.banner-career{margin-top:30px;}
+.coe-banner{margin-top:30px;}
+.banner-privacy{margin-top:30px;}
+.lg a{margin:20px 0px 0px 12px;}
+.banner-testimonials{margin-top:30px;}
+.ms-usa-banner{margin-top:30px;}
+.banner-mentors{margin-top:30px;}
+.footer2{min-height:142px;}
+.banner-president{margin-top:30px;}
+.fix-10{min-height:682px;}
+.banner-training-title{width:40%;}
+.fix-11{margin-top:30px;}
+.fix-15{background-position:top center;background-color:#FFFFFF;background-size:initial;}
+.fix-16{background-size:cover;}
+.slide, .fade-carousel .carousel-inner .item{min-height:570px;}
+.fade-carousel .slides .slide-1, .fade-carousel .slides .slide-2, .fade-carousel .slides .slide-3, .fade-carousel .slides .slide-4, .fade-carousel .slides .slide-5{background-size:cover;background-position:top center;min-height:570px;}
+.tabbable-line > .tabtop-bg1 > li{border-bottom:4px solid #005169;}
+.nav-tabs > li{margin-bottom:0px;}
+
+/***** Cal Back Form Css Starts Here ******/
+.cBSubmitButtonDiv {text-align: center;}
+.cBSubmitButton {background:#36b35e none repeat scroll 0 0;color: #FFFFFF;font-family: "Arimo",sans-serif;font-size: 15px;padding: 10px 38px;}
+.btn-default.cBSubmitButton:hover, .btn-default.cBSubmitButton:focus{background:#36b35e none repeat scroll 0 0;color: #FFFFFF;}
+.form-control.cbInputElement {height: 40px;}
+.form-group.cbInputElementDiv { padding: 0 14px; margin-bottom:24px;}
+/***** Cal Back Form Css Ends Here ******/
+
+@media only screen and (max-width:1360px){.fix-15{background-size:100% auto;}
+}
+@media only screen and (max-width:1199px){.fix-4{width:55%;}
+.fix-8{min-height:700px;}
+.fix-10{min-height:786px;}
+.menu{width:41%;float:left;}
+.lg{float:left;}
+.parallex1{min-height:620px;}
+.fix-14{height:auto !important;padding-bottom:10px;}
+.fix-11 .industry-bg{overflow:hidden;}
+.glance-box{overflow:hidden;}
+.tabtop-bg1 li{width:50%;margin-right:0px !important;}
+.res-bord2{width:85%;}
+}
+@media only screen and (max-width:1191px){.fix-7{margin-top:70px;}
+}
+@media only screen and (max-width:1000px){.slider-caption{font-size:35px;}
+.sub-caption-01{font-size:25px;}
+.slide, .fade-carousel .carousel-inner .item{min-height:470px;}
+.fade-carousel .slides .slide-1, .fade-carousel .slides .slide-2, .fade-carousel .slides .slide-3, .fade-carousel .slides .slide-4, .fade-carousel .slides .slide-5{background-size:cover;background-position:top center;min-height:470px;}
+}
+@media only screen and (max-width:991px){.our-vision1{width:100%;}
+.fix-2{margin:0px auto;text-align:center;}
+.fix-3{width:35% !important;}
+.fix-6{min-height:645px;}
+.fix-8{min-height:965px;}
+.fix-9 img{width:100%;}
+.fix-10{min-height:1000px;}
+.fix-12{padding-left:25px;}.menu{width:52%;float:left;}
+.lg{float:left;width:100%;text-align:center;}
+.res-bord2{padding:0 1px 1px 6px;width:109%;}
+}
+@media only screen and (max-width:800px){.logo{float:none;margin:10px auto 0px;text-align:center;}
+.logo_text{margin:0px;text-align:center;}
+.logo img{margin:0px;}
+.menu{background:#f2f2f2 none repeat scroll 0 0;float:none;width:100%;margin:12px 0px 0px;}
+#cssmenu > ul > li > a{font-size:14px;}
+.menu ul li a{font-size:14px;}
+#cssmenu #menu-button::after{height:7px;}
+.lg{float:none;margin:25px 0px 0px;text-align:center;}
+.lg a{margin:0px;}
+.ticker-container{font-size:16px;}
+#carousel2000{float:right;width:78% !important;}
+.fix-1 img{width:100%;}
+.banner-training-title{width:80%;}
+.fix-7{margin-top:30px;}
+}
+@media only screen and (max-width:767px){.menu{float:none;width:100%;margin:12px 0px 0px;}
+#cssmenu #menu-button{color:#000000;}
+.fade-carousel .slides .slide-1, .fade-carousel .slides .slide-2, .fade-carousel .slides .slide-3{height:60vh !important;}
+.carousel-indicators{bottom:10px !important;}
+.testbox{background:rgba(0, 0, 0, 0.3);color:#FFFFFF;border:none;}
+.slider-caption{color:#FFFFFF;line-height:35px;}
+.sub-caption, .sub-caption-01{color:#FFFFFF;}
+.carousel-indicators{bottom:25px !important;}
+.fix-4{width:100%;}
+.fix-5{width:80% !important;}
+.p-fix-0{padding-left:0px;padding-right:0px;}
+.fix-6{min-height:245px;}
+.feature-box img{width:auto;}
+.fix-13 img{width:100%;}
+.fix-8{min-height:200px;}
+.fix-9 img{width:auto;}
+.fix-10{min-height:100px;}
+.fix-15{min-height:100px;}
+.tabtop-bg1 li{width:100%;text-align:center;}
+.res-bord2{width:220px;}
+}
+@media only screen and (max-width:660px){.ticker-container ul{height:auto;}
+.ticker-container .ticker-caption{height:28px;}
+#slides9000 li a{line-height:16px;}
+#carousel2000{float:none;width:98% !important;}
+}
+@media only screen and (max-width:499px){
+.ticker-container .ticker-caption{background-repeat:no-repeat;text-align:left;}
+.fix-5{width:100% !important;}
+.fix-3{width:55% !important;}
+.banner-training-title{width:100%;}
+.media-fix{text-align:center;}
+.media-fix .media-left{display:block;}
+.media-fix .media-body{width:100%;padding-bottom:40px;}
+
+    .fade-carousel .slides .slide-1 {background-image: url("img/slider1-mobile.jpg");}
+    .fade-carousel .slides .slide-2 {background-image: url("img/slider2-mobile.jpg");}
+    .fade-carousel .slides .slide-3 {background-image: url("img/slider3-mobile.jpg");}
+    .fade-carousel .slides .slide-4 {background-image: url("img/slider4-mobile.jpg");}
+    .fade-carousel .slides .slide-5 {background-image: url("img/slider5-mobile.jpg");}
+}
+@media (max-width:400px){}
+@media (min-width:550px){}
+@media (min-width:750px){}
+@media (min-width:1000px){}
+@media (min-width:1200px){}
